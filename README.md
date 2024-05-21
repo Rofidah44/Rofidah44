@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rofidah Hanbzaza</h1>
-<h3 align="center">A passionate Data Scientist from Saudi</h3>
+<h3 align="center">A passionate Data Scientist from Saudi Arabia</h3>
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 👯 I’m looking to collaborate on **Machine learning Projects**
-
-- 🤝 I’m looking for help with **Data Science**
-
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Data Science, Artificial Intelligence**
 
 - 📫 How to reach me **rofidah.kmal@gmail.com**
 
