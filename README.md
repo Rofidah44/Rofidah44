@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **rofidah.kmal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZPEUJi-mPW1pxGYUAuint6f8fX4Yrndq/view?usp=sharing](https://drive.google.com/file/d/1ZPEUJi-mPW1pxGYUAuint6f8fX4Yrndq/view?usp=sharing)
-
 ###
 
 
@@ -16,6 +14,11 @@
 ###
 
 <img align="right" height="150" src="https://cdn.dribbble.com/userupload/3501998/file/original-ac09158b5303b5b7113ce9ed2a0d9a5b.gif"  />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ###
 
