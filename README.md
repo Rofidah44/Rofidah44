@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rofidah Hanbzaza</h1>
+<h1 align="center">Hi 👋, I'm Rufaydah Hanbzaza</h1>
 <h3 align="center">A passionate Data Scientist from Saudi Arabia</h3>
 
 - 🌱 I’m currently learning **Computer Vision**
 
 - 💬 Ask me about **Data Science, Artificial Intelligence**
 
-- 📫 How to reach me **rofidah.kmal@gmail.com**
+- 📫 How to reach me **Rufaydah.hanbzaza@outlook.com**
 
 ###
 
