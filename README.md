@@ -1,11 +1,16 @@
-<h1 align="center">Hi 👋, I'm Rufaydah Hanbzaza</h1>
-<h3 align="center">A passionate Data Scientist from Saudi Arabia</h3>
+# Hi 👋, I'm Rufaydah
 
-- 🌱 I’m currently learning **Computer Vision**
+### Building, learning, and exploring what's possible with AI ✨
 
-- 💬 Ask me about **Data Science, Artificial Intelligence**
+🎓 Master's student in Artificial Intelligence
 
-- 📫 How to reach me **Rufaydah.hanbzaza@outlook.com**
+🤖 Exploring AI, Machine Learning, NLP, and Intelligent Systems
+
+💡 Interested in turning AI concepts into practical solutions for real-world problems
+
+🚀 Always curious about what AI is capable of doing next.
+
+📫 **Rufaydah.Hanbzaza@outlook.com**
 
 ###
 
